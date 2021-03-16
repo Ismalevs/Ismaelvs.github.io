@@ -1,4 +1,4 @@
-
+//otro comentario
 var nombre="Ismael";
 var edad =24;
 
