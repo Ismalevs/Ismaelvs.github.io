@@ -1,6 +1,6 @@
 
 var nombre="Ismael";
-var edad =23;
+var edad =24;
 
 document.write(nombre+""+edad);
 alert("hola");
